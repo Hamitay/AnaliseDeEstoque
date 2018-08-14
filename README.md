@@ -5,13 +5,13 @@ O script neste repositório admite como entrada dois arquivos (no formato .xlsx)
 * MovtoITEM.xlsx
 * SaldoITEM.xlsx
 
-As dependicas para esta solução são as bibliotecas *numpy* e *pandas*, caso o ambiente em que este script será executado não possua estas dependencias as dependências podem ser adicionadas com o pip
+As dependências para esta solução são as bibliotecas *numpy* e *pandas*, caso o ambiente em que este script será executado não possua estas dependências as dependências podem ser adicionadas com o pip
 ```shell
     $ pip install numpy
     $ pip install pandas
 ```
 
-Tendo as dependencias instaladas, certifique-se que os arquivos de entrada se encontrem na pasta pasta do script e execute
+Tendo as dependências instaladas, certifique-se que os arquivos de entrada se encontram na pasta pasta do script e execute
 
 ```shell
     $ python base.py
